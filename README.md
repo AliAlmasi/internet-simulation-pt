@@ -9,6 +9,10 @@
 
 <h2><a href="https://github.com/AliAlmasi/internet-simulation-pt/raw/refs/heads/main/internet-simulation-almasi.pdf">دانلود فایل راهنمای پروژه</a></h2>
 
-<h3>پروژه <a href="https://almsi.ir">علی الماسی حشیانی</a> — استاد محمد علوی — دانشکده شهید شمسی پور — دانشگاه ملی مهارت تهران</h3>
+<h2><a href="https://aparat.com/v/tzj618f">مشاهده ویدیوی شرح پروژه در آپارات</a></h2>
+
+<h3>پروژه <a href="https://almsi.ir" target="_blank">علی الماسی حشیانی</a> — استاد محمد علوی — دانشکده شهید شمسی پور — دانشگاه ملی مهارت تهران</h3>
+
+<p><a href="https://github.com/AliAlmasi/internet-simulation-pt" href="_blank">مخزن گیتهاب پروژه</a></p>
 
 </div>
